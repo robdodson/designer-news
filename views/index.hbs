@@ -1,0 +1,41 @@
+<h1>Designer News</h1>
+
+<div class="">
+  <a href="/">Top stories</a>
+  <a href="/new">Recent stories</a>
+</div>
+<hr>
+<ul>
+  {{#each stories}}
+    <li>
+      <div class="badge-{{badge}}" hidden>
+        {{badge}}
+      </div>
+
+      <dnews-story-url url="{{url}}" domain="{{hostname}}">
+        {{title}}
+      </dnews-story-url>
+
+      <div>
+        <dnews-story-comments votes="{{vote_count}}"
+                              comments="{{comment_count}}"
+                              url="{{id}}">
+        </dnews-story-comments>
+        &bull;
+        <time is="relative-time" datetime="{{created_at}}">
+          April 1, 2014
+        </time>
+        from {{links.user}}
+      </div>
+    </li>
+  {{/each}}
+  <hr>
+  <div class="">
+    {{#if prev}}
+      <a href="{{prev}}">Previous</a>
+    {{/if}}
+    {{#if next}}
+      <a href="{{next}}">Next</a>
+    {{/if}}
+  </div>
+</ul>

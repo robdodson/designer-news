@@ -1,0 +1,29 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html">
+
+<dom-module id="dnews-story-comments">
+  <style>
+    :host {
+      display: inline-block;
+    }
+  </style>
+  <template>
+    <span>[[votes]]</span> points and
+    <span><a href="[[url]]"><span>[[comments]]</span> comments</a></span>
+  </template>
+</dom-module>
+
+<script>
+
+  Polymer({
+
+    is: 'dnews-story-comments',
+
+    properties: {
+      votes: Number,
+      url: String,
+      comments: Number
+    }
+
+  });
+
+</script>

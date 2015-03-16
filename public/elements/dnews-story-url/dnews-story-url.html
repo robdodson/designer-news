@@ -1,0 +1,44 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html">
+
+<dom-module id="dnews-story-url">
+  <style>
+    :host {
+      display: inline-block;
+    }
+
+    a {
+      max-width: 540px;
+      color: rgba(0, 0, 0, 1);
+      text-decoration: none;
+    }
+
+    a:visited {
+      color: rgba(0, 0, 0, 0.4);
+    }
+
+    .domain {
+      color: rgba(0, 0, 0, 0.3);
+    }
+  </style>
+  <template>
+    <a id="url" href="[[url]]">
+      <content></content>
+      <span class="domain">[[domain]]</span>
+    </a>
+  </template>
+</dom-module>
+
+<script>
+
+  Polymer({
+
+    is: 'dnews-story-url',
+
+    properties: {
+      url: String,
+      domain: String
+    }
+
+  });
+
+</script>

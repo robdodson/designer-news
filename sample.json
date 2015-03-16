@@ -1,0 +1,547 @@
+{
+  "stories": [{
+    "id": "46029",
+    "href": "https://api-news.layervault.com/api/v2/stories/46029",
+    "links": {
+      "user": "6991",
+      "comments": ["139922", "139932", "139956"],
+      "upvotes": ["199648", "199649", "199650", "199651", "199652", "199653", "199654", "199655", "199656", "199657", "199658", "199659", "199664", "199668", "199669", "199670", "199671", "199673", "199674", "199676", "199678", "199679", "199683", "199685", "199686", "199688", "199689", "199690", "199698", "199701", "199704", "199705", "199714", "199725"],
+      "downvotes": []
+    },
+    "created_at": "2015-03-14T20:50:41Z",
+    "updated_at": "2015-03-15T16:27:16Z",
+    "title": "CSS Sans - A pure CSS font",
+    "badge": "CSS",
+    "comment": "",
+    "comment_html": null,
+    "comment_count": 3,
+    "pinned_at": null,
+    "url": "http://yusugomori.com/projects/css-sans/fonts",
+    "sponsored": false,
+    "vote_count": 35,
+    "hostname": "yusugomori.com"
+  }, {
+    "id": "46036",
+    "href": "https://api-news.layervault.com/api/v2/stories/46036",
+    "links": {
+      "user": "18938",
+      "comments": ["139928"],
+      "upvotes": ["199696", "199700", "199703", "199715"],
+      "downvotes": []
+    },
+    "created_at": "2015-03-15T09:52:46Z",
+    "updated_at": "2015-03-15T15:40:31Z",
+    "title": "Show DN: rrgg.bb, 16 million random colors",
+    "badge": "Show",
+    "comment": "",
+    "comment_html": null,
+    "comment_count": 2,
+    "pinned_at": null,
+    "url": "http://rrgg.bb/",
+    "sponsored": false,
+    "vote_count": 5,
+    "hostname": "rrgg.bb"
+  }, {
+    "id": "46017",
+    "href": "https://api-news.layervault.com/api/v2/stories/46017",
+    "links": {
+      "user": "5208",
+      "comments": ["139876", "139911", "139929"],
+      "upvotes": ["199580", "199582", "199587", "199588", "199591", "199593", "199595", "199596", "199599", "199602", "199604", "199606", "199608", "199609", "199611", "199613", "199615", "199616", "199619", "199620", "199623", "199631", "199636", "199640", "199645", "199675", "199677", "199702", "199709", "199716", "199723"],
+      "downvotes": []
+    },
+    "created_at": "2015-03-14T13:10:55Z",
+    "updated_at": "2015-03-15T16:10:44Z",
+    "title": "Google Web Fonts is now published on GitHub",
+    "badge": "Type",
+    "comment": "",
+    "comment_html": null,
+    "comment_count": 3,
+    "pinned_at": null,
+    "url": "https://github.com/google/fonts",
+    "sponsored": false,
+    "vote_count": 32,
+    "hostname": "github.com"
+  }, {
+    "id": "46031",
+    "href": "https://api-news.layervault.com/api/v2/stories/46031",
+    "links": {
+      "user": "5208",
+      "comments": ["139951", "139954"],
+      "upvotes": ["199694", "199697", "199699", "199708", "199711", "199724"],
+      "downvotes": []
+    },
+    "created_at": "2015-03-14T22:33:53Z",
+    "updated_at": "2015-03-15T16:15:41Z",
+    "title": "The beautiful art of Simon St\u00e5lenhag",
+    "badge": null,
+    "comment": "",
+    "comment_html": null,
+    "comment_count": 2,
+    "pinned_at": null,
+    "url": "http://www.simonstalenhag.se/",
+    "sponsored": false,
+    "vote_count": 7,
+    "hostname": "simonstalenhag.se"
+  }, {
+    "id": "46034",
+    "href": "https://api-news.layervault.com/api/v2/stories/46034",
+    "links": {
+      "user": "19277",
+      "comments": [],
+      "upvotes": ["199710", "199717"],
+      "downvotes": []
+    },
+    "created_at": "2015-03-15T02:26:45Z",
+    "updated_at": "2015-03-15T15:40:38Z",
+    "title": "The Ultimate Guide to Google's Material Design: overview of how Google's design evolved from Project Kennedy to Material Design language.",
+    "badge": null,
+    "comment": "",
+    "comment_html": null,
+    "comment_count": 0,
+    "pinned_at": null,
+    "url": "http://materialdesignblog.com/the-ultimate-guide-to-googles-material-design/",
+    "sponsored": false,
+    "vote_count": 3,
+    "hostname": "materialdesignblog.com"
+  }, {
+    "id": "46024",
+    "href": "https://api-news.layervault.com/api/v2/stories/46024",
+    "links": {
+      "user": "1199",
+      "comments": ["139887", "139891", "139892", "139894", "139905", "139914", "139943", "139949"],
+      "upvotes": ["199614", "199629", "199661", "199707"],
+      "downvotes": []
+    },
+    "created_at": "2015-03-14T17:38:09Z",
+    "updated_at": "2015-03-15T16:22:36Z",
+    "title": "Ask DN: Audible recommendations",
+    "badge": "Ask",
+    "comment": "Hey\r\n\r\nSomehow I forgot about my Audible subscription and now have 5 credits.\r\nSo now I'm looking for some good audiobook recommendations. \r\nIt could be about design, history or something third. The important part is that the book is interesting and the narrator is good.\r\n\r\nSo what is your favourite book on Audible?",
+    "comment_html": "\u003Cp\u003EHey\u003C/p\u003E\n\n\u003Cp\u003ESomehow I forgot about my Audible subscription and now have 5 credits.\nSo now I\u0026#39;m looking for some good audiobook recommendations. \nIt could be about design, history or something third. The important part is that the book is interesting and the narrator is good.\u003C/p\u003E\n\n\u003Cp\u003ESo what is your favourite book on Audible?\u003C/p\u003E\n",
+    "comment_count": 8,
+    "pinned_at": null,
+    "url": "",
+    "sponsored": false,
+    "vote_count": 5,
+    "hostname": null
+  }, {
+    "id": "46032",
+    "href": "https://api-news.layervault.com/api/v2/stories/46032",
+    "links": {
+      "user": "2213",
+      "comments": ["139938"],
+      "upvotes": ["199684", "199718"],
+      "downvotes": []
+    },
+    "created_at": "2015-03-14T22:45:49Z",
+    "updated_at": "2015-03-15T15:56:40Z",
+    "title": "10 Ways To Share Your Creativity and Get Discovered \u2014 Show Your Work!",
+    "badge": null,
+    "comment": "",
+    "comment_html": null,
+    "comment_count": 1,
+    "pinned_at": null,
+    "url": "https://medium.com/show-your-work/10-ways-to-share-your-creativity-and-get-discovered-7fb5fdfbc068",
+    "sponsored": false,
+    "vote_count": 3,
+    "hostname": "medium.com"
+  }, {
+    "id": "46009",
+    "href": "https://api-news.layervault.com/api/v2/stories/46009",
+    "links": {
+      "user": "4296",
+      "comments": ["139835", "139859"],
+      "upvotes": ["199529", "199547", "199551", "199564", "199565", "199567", "199568", "199573", "199583", "199594", "199617", "199667"],
+      "downvotes": []
+    },
+    "created_at": "2015-03-14T03:08:19Z",
+    "updated_at": "2015-03-15T06:21:50Z",
+    "title": "Get my icons for free in exchange of feedback (4000 icons)",
+    "badge": null,
+    "comment": "",
+    "comment_html": null,
+    "comment_count": 6,
+    "pinned_at": null,
+    "url": "https://webalys.typeform.com/to/qu2uFk",
+    "sponsored": false,
+    "vote_count": 13,
+    "hostname": "webalys.typeform.com"
+  }, {
+    "id": "46019",
+    "href": "https://api-news.layervault.com/api/v2/stories/46019",
+    "links": {
+      "user": "10019",
+      "comments": [],
+      "upvotes": ["199607", "199625"],
+      "downvotes": []
+    },
+    "created_at": "2015-03-14T14:50:22Z",
+    "updated_at": "2015-03-14T19:50:14Z",
+    "title": "Poly-filters, brand new library for Polymer expressions. ",
+    "badge": null,
+    "comment": "",
+    "comment_html": null,
+    "comment_count": 0,
+    "pinned_at": null,
+    "url": "http://mbarinov.github.io/poly-filters",
+    "sponsored": false,
+    "vote_count": 3,
+    "hostname": "mbarinov.github.io"
+  }, {
+    "id": "46006",
+    "href": "https://api-news.layervault.com/api/v2/stories/46006",
+    "links": {
+      "user": "5658",
+      "comments": ["139842", "139863", "139874", "139890", "139941"],
+      "upvotes": ["199514", "199531", "199559", "199563", "199569", "199572", "199603", "199660", "199706"],
+      "downvotes": []
+    },
+    "created_at": "2015-03-14T00:03:10Z",
+    "updated_at": "2015-03-15T16:30:26Z",
+    "title": "Spotifree\u2014OS X App for Muting Spotify Ads",
+    "badge": "Apple",
+    "comment": "",
+    "comment_html": null,
+    "comment_count": 12,
+    "pinned_at": null,
+    "url": "http://spotifree.gordinskiy.com/",
+    "sponsored": false,
+    "vote_count": 10,
+    "hostname": "spotifree.gordinskiy.com"
+  }, {
+    "id": "46007",
+    "href": "https://api-news.layervault.com/api/v2/stories/46007",
+    "links": {
+      "user": "17694",
+      "comments": ["139818", "139821", "139829", "139832", "139847", "139848", "139857", "139926"],
+      "upvotes": ["199511", "199513", "199517", "199526", "199535", "199545", "199555", "199610", "199627"],
+      "downvotes": []
+    },
+    "created_at": "2015-03-14T00:34:47Z",
+    "updated_at": "2015-03-15T16:30:49Z",
+    "title": "Ask: Can Sketch be used for pixel art? ",
+    "badge": "Discussion",
+    "comment": "I am looking to disable all anti-alias in Sketch to drawn pixel art? Fireworks is the only tool I can think which supports pixel and vector tools, are there others on Mac?",
+    "comment_html": "\u003Cp\u003EI am looking to disable all anti-alias in Sketch to drawn pixel art? Fireworks is the only tool I can think which supports pixel and vector tools, are there others on Mac?\u003C/p\u003E\n",
+    "comment_count": 7,
+    "pinned_at": null,
+    "url": "",
+    "sponsored": false,
+    "vote_count": 10,
+    "hostname": null
+  }, {
+    "id": "45975",
+    "href": "https://api-news.layervault.com/api/v2/stories/45975",
+    "links": {
+      "user": "10507",
+      "comments": ["139713", "139718", "139726", "139748", "139751"],
+      "upvotes": ["199362", "199363", "199365", "199374", "199378", "199384", "199386", "199387", "199389", "199391", "199396", "199418", "199444", "199449", "199457", "199460", "199471", "199482", "199487", "199491", "199495", "199496", "199501", "199509", "199510", "199518", "199530", "199534", "199536", "199543", "199550", "199556", "199612", "199712", "199719"],
+      "downvotes": []
+    },
+    "created_at": "2015-03-13T15:49:38Z",
+    "updated_at": "2015-03-15T15:56:17Z",
+    "title": "Airport Codes. The story behind those 3-letter names.",
+    "badge": null,
+    "comment": "",
+    "comment_html": null,
+    "comment_count": 8,
+    "pinned_at": null,
+    "url": "http://airportcod.es/",
+    "sponsored": false,
+    "vote_count": 36,
+    "hostname": "airportcod.es"
+  }, {
+    "id": "45990",
+    "href": "https://api-news.layervault.com/api/v2/stories/45990",
+    "links": {
+      "user": "15980",
+      "comments": ["139773", "139789", "139845", "139907"],
+      "upvotes": ["199402", "199403", "199407", "199408", "199432", "199448", "199451", "199452", "199461", "199474", "199477", "199499", "199516", "199532", "199544", "199632", "199662", "199663", "199713"],
+      "downvotes": []
+    },
+    "created_at": "2015-03-13T18:41:59Z",
+    "updated_at": "2015-03-15T15:38:24Z",
+    "title": "Good design is honest",
+    "badge": null,
+    "comment": "",
+    "comment_html": null,
+    "comment_count": 9,
+    "pinned_at": null,
+    "url": "http://blog.astropad.com/good-design-is-honest/",
+    "sponsored": false,
+    "vote_count": 20,
+    "hostname": "blog.astropad.com"
+  }, {
+    "id": "45991",
+    "href": "https://api-news.layervault.com/api/v2/stories/45991",
+    "links": {
+      "user": "20933",
+      "comments": ["139776", "139822"],
+      "upvotes": ["199409", "199415", "199456", "199463", "199468", "199469", "199479", "199490", "199492", "199493", "199498", "199502", "199506", "199508", "199519", "199554", "199558", "199566", "199574", "199605", "199642", "199643"],
+      "downvotes": []
+    },
+    "created_at": "2015-03-13T18:52:03Z",
+    "updated_at": "2015-03-15T09:21:26Z",
+    "title": "Jonathan Shariat on Twitter: \"How it feels to watch a user test your product for the first time\"",
+    "badge": null,
+    "comment": "",
+    "comment_html": null,
+    "comment_count": 2,
+    "pinned_at": null,
+    "url": "https://twitter.com/DesignUXUI/status/576432203560685568",
+    "sponsored": false,
+    "vote_count": 23,
+    "hostname": "twitter.com"
+  }, {
+    "id": "46018",
+    "href": "https://api-news.layervault.com/api/v2/stories/46018",
+    "links": {
+      "user": "7100",
+      "comments": [],
+      "upvotes": ["199695"],
+      "downvotes": []
+    },
+    "created_at": "2015-03-14T13:50:08Z",
+    "updated_at": "2015-03-15T13:16:24Z",
+    "title": "Case study: Sainsbury's past, present \u0026 future - telling the brand story",
+    "badge": null,
+    "comment": "",
+    "comment_html": null,
+    "comment_count": 0,
+    "pinned_at": null,
+    "url": "http://www.ulrich-boulon.com/case-studies-2014/2014/11/16/sainsburys-past-present-future-telling-the-brand-story",
+    "sponsored": false,
+    "vote_count": 2,
+    "hostname": "ulrich-boulon.com"
+  }, {
+    "id": "46012",
+    "href": "https://api-news.layervault.com/api/v2/stories/46012",
+    "links": {
+      "user": "9961",
+      "comments": ["139846", "139870", "139935"],
+      "upvotes": ["199581"],
+      "downvotes": []
+    },
+    "created_at": "2015-03-14T07:24:06Z",
+    "updated_at": "2015-03-15T12:13:05Z",
+    "title": "Show DN: Talking about watches... Have you ever owned fancy ones like these?",
+    "badge": "Show",
+    "comment": "",
+    "comment_html": null,
+    "comment_count": 9,
+    "pinned_at": null,
+    "url": "http://www.tokyoflash.com/en/watches/1/",
+    "sponsored": false,
+    "vote_count": 2,
+    "hostname": "tokyoflash.com"
+  }, {
+    "id": "45996",
+    "href": "https://api-news.layervault.com/api/v2/stories/45996",
+    "links": {
+      "user": "11482",
+      "comments": [],
+      "upvotes": ["199427", "199481", "199503", "199528", "199553", "199560", "199579", "199590", "199598", "199666", "199680"],
+      "downvotes": []
+    },
+    "created_at": "2015-03-13T19:22:18Z",
+    "updated_at": "2015-03-15T10:21:25Z",
+    "title": "Show DN: Tweety-Pi",
+    "badge": "Show",
+    "comment": "Hi everyone! This is my first post on DN. My friend and I created this fun little app in under 20 hours, and launched on Product Hunt this morning.\r\n\r\nwww.tweetypi.co\r\n\r\nTweety-Pi lets you tweet in unison at the exact Pi time on Pi Day which is 3.14.15 9:26:53.\r\n\r\nHope you like it!",
+    "comment_html": "\u003Cp\u003EHi everyone! This is my first post on DN. My friend and I created this fun little app in under 20 hours, and launched on Product Hunt this morning.\u003C/p\u003E\n\n\u003Cp\u003E\u003Ca href=\"http://www.tweetypi.co\" rel=\"nofollow\"\u003Ewww.tweetypi.co\u003C/a\u003E\u003C/p\u003E\n\n\u003Cp\u003ETweety-Pi lets you tweet in unison at the exact Pi time on Pi Day which is 3.14.15 9:26:53.\u003C/p\u003E\n\n\u003Cp\u003EHope you like it!\u003C/p\u003E\n",
+    "comment_count": 0,
+    "pinned_at": null,
+    "url": "",
+    "sponsored": false,
+    "vote_count": 12,
+    "hostname": null
+  }, {
+    "id": "45989",
+    "href": "https://api-news.layervault.com/api/v2/stories/45989",
+    "links": {
+      "user": "2646",
+      "comments": ["139752", "139758", "139762", "139778"],
+      "upvotes": ["199433", "199450", "199458", "199462", "199466", "199540", "199681"],
+      "downvotes": []
+    },
+    "created_at": "2015-03-13T18:14:19Z",
+    "updated_at": "2015-03-15T10:31:46Z",
+    "title": "Netlify builds, deploys \u0026 hosts your static site or app",
+    "badge": null,
+    "comment": "",
+    "comment_html": null,
+    "comment_count": 14,
+    "pinned_at": null,
+    "url": "https://www.netlify.com/",
+    "sponsored": false,
+    "vote_count": 8,
+    "hostname": "netlify.com"
+  }, {
+    "id": "45994",
+    "href": "https://api-news.layervault.com/api/v2/stories/45994",
+    "links": {
+      "user": "2213",
+      "comments": ["139787", "139792", "139797", "139866", "139912", "139921"],
+      "upvotes": ["199414", "199429", "199483", "199485", "199520", "199577"],
+      "downvotes": []
+    },
+    "created_at": "2015-03-13T19:14:23Z",
+    "updated_at": "2015-03-15T11:36:31Z",
+    "title": "Working From Home Doesn't Have to Cut You Off From Humanity | WIRED",
+    "badge": null,
+    "comment": "",
+    "comment_html": null,
+    "comment_count": 7,
+    "pinned_at": null,
+    "url": "http://www.wired.com/2015/03/work-from-home",
+    "sponsored": false,
+    "vote_count": 7,
+    "hostname": "wired.com"
+  }, {
+    "id": "45992",
+    "href": "https://api-news.layervault.com/api/v2/stories/45992",
+    "links": {
+      "user": "20933",
+      "comments": [],
+      "upvotes": ["199431", "199465", "199480", "199489", "199494", "199512", "199549", "199576", "199691"],
+      "downvotes": []
+    },
+    "created_at": "2015-03-13T18:53:52Z",
+    "updated_at": "2015-03-15T12:15:29Z",
+    "title": "Why you should watch first-time users",
+    "badge": null,
+    "comment": "",
+    "comment_html": null,
+    "comment_count": 0,
+    "pinned_at": null,
+    "url": "https://userbrain.net/blog/why-first-time-users",
+    "sponsored": false,
+    "vote_count": 10,
+    "hostname": "userbrain.net"
+  }, {
+    "id": "45977",
+    "href": "https://api-news.layervault.com/api/v2/stories/45977",
+    "links": {
+      "user": "13327",
+      "comments": ["139828", "139853"],
+      "upvotes": ["199373", "199394", "199397", "199410", "199411", "199416", "199455", "199459", "199548", "199570", "199575"],
+      "downvotes": []
+    },
+    "created_at": "2015-03-13T16:16:16Z",
+    "updated_at": "2015-03-14T13:12:38Z",
+    "title": "Curated: Grow your audience by collecting and sharing engaging content",
+    "badge": null,
+    "comment": "",
+    "comment_html": null,
+    "comment_count": 2,
+    "pinned_at": null,
+    "url": "http://curated.co/",
+    "sponsored": false,
+    "vote_count": 12,
+    "hostname": "curated.co"
+  }, {
+    "id": "45980",
+    "href": "https://api-news.layervault.com/api/v2/stories/45980",
+    "links": {
+      "user": "201",
+      "comments": ["139824", "139875"],
+      "upvotes": ["199369", "199404", "199441", "199467", "199538", "199578", "199592", "199634", "199646", "199692"],
+      "downvotes": []
+    },
+    "created_at": "2015-03-13T16:49:28Z",
+    "updated_at": "2015-03-15T12:17:35Z",
+    "title": "Building an experimental UI design tool",
+    "badge": null,
+    "comment": "",
+    "comment_html": null,
+    "comment_count": 2,
+    "pinned_at": null,
+    "url": "https://medium.com/@almonk/design-like-it-s-1999-48ce5f5be14",
+    "sponsored": false,
+    "vote_count": 11,
+    "hostname": "medium.com"
+  }, {
+    "id": "45997",
+    "href": "https://api-news.layervault.com/api/v2/stories/45997",
+    "links": {
+      "user": "19022",
+      "comments": ["139806", "139880"],
+      "upvotes": ["199472", "199478", "199507", "199525", "199597", "199601"],
+      "downvotes": []
+    },
+    "created_at": "2015-03-13T19:30:11Z",
+    "updated_at": "2015-03-14T17:28:46Z",
+    "title": "iOS Application Bookmark Manager | Papaly",
+    "badge": "Apple",
+    "comment": "",
+    "comment_html": null,
+    "comment_count": 3,
+    "pinned_at": null,
+    "url": "https://itunes.apple.com/us/app/id972143285",
+    "sponsored": false,
+    "vote_count": 7,
+    "hostname": "itunes.apple.com"
+  }, {
+    "id": "46001",
+    "href": "https://api-news.layervault.com/api/v2/stories/46001",
+    "links": {
+      "user": "13890",
+      "comments": ["139895"],
+      "upvotes": ["199552", "199626", "199635", "199644", "199693"],
+      "downvotes": []
+    },
+    "created_at": "2015-03-13T21:27:33Z",
+    "updated_at": "2015-03-15T12:25:52Z",
+    "title": "Show DN: A Soft Murmur - Ambient sounds to wash away distraction.",
+    "badge": "Show",
+    "comment": "",
+    "comment_html": null,
+    "comment_count": 1,
+    "pinned_at": null,
+    "url": "http://asoftmurmur.com/",
+    "sponsored": false,
+    "vote_count": 6,
+    "hostname": "asoftmurmur.com"
+  }, {
+    "id": "45962",
+    "href": "https://api-news.layervault.com/api/v2/stories/45962",
+    "links": {
+      "user": "4559",
+      "comments": ["139654", "139700", "139768", "139790", "139899"],
+      "upvotes": ["199304", "199313", "199322", "199341", "199355", "199356", "199360", "199361", "199371", "199372", "199586"],
+      "downvotes": []
+    },
+    "created_at": "2015-03-13T12:57:53Z",
+    "updated_at": "2015-03-14T20:39:44Z",
+    "title": "An inline-block intervention. Or, Why you shouldn't give up on floats.",
+    "badge": null,
+    "comment": "",
+    "comment_html": null,
+    "comment_count": 12,
+    "pinned_at": null,
+    "url": "https://medium.com/@drewisthe/an-inline-block-intervention-6ce18a3f7edf",
+    "sponsored": false,
+    "vote_count": 12,
+    "hostname": "medium.com"
+  }],
+  "linked": {},
+  "links": {
+    "comments": {
+      "href": "https://api-news.layervault.com/api/v2/comments/{stories.comments}",
+      "type": "comments"
+    },
+    "user": {
+      "href": "https://api-news.layervault.com/api/v2/users/{stories.user}",
+      "type": "users"
+    },
+    "upvotes": {
+      "href": "https://api-news.layervault.com/api/v2/upvotes/{stories.upvotes}",
+      "type": "upvotes"
+    },
+    "downvotes": {
+      "href": "https://api-news.layervault.com/api/v2/downvotes/{stories.downvotes}",
+      "type": "downvotes"
+    }
+  }
+}
