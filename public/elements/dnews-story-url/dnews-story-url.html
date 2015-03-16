@@ -23,7 +23,7 @@
   <template>
     <a id="url" href="[[url]]">
       <content></content>
-      <span class="domain">[[domain]]</span>
+      <span class="domain">[[domainStr_]]</span>
     </a>
   </template>
 </dom-module>
@@ -36,7 +36,16 @@
 
     properties: {
       url: String,
-      domain: String
+      domain: String,
+      domainStr_: String
+    },
+
+    attached: function() {
+      if (!this.domain) {
+        return;
+      }
+      
+      this.domainStr_ = '(' + this.domain + ')';
     }
 
   });
